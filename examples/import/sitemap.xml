@@ -1,0 +1,3016 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- created with www.majento.ru -->
+<urlset xml_nsxsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xsi_schemaLocation="www">
+    <url available="true" name="url">
+        <loc>http://vk.com/a.melnik</loc>
+        <lastmod>lastmod text</lastmod>
+        <priority>priority text</priority>
+        <changefreq>changefreq text</changefreq>
+    </url>
+    <url available="true" name="tag">
+        <loc>http://vk.com/a.melnik</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true" name="tag">
+        <loc>http://vk.com/aalebedev</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="false" name="tag">
+        <loc>http://vk.com/abacabadabacabaeabacabadabacaba</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/about</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/ads</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/ads?act=office_help</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/ads?act=office_help&amp;id=-19542789_29315354&amp;terms=1</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/ads?act=office_help&amp;terms</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/ads?act=office_help&amp;terms=1</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/ads?act=office_help&amp;terms=1&amp;oid=-21200290&amp;p=Advertising_Rules&amp;f=Notes</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/adsnews</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/album-348403_199213119</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/album-348403_39247070</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/album-47200950_0</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/album-47200950_0?act=comments</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/album-47200950_167111968</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/album-47200950_167200446</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/album-47200950_167200446?act=comments</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/album3420_140909361</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/album3420_214705824</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/album34_188627867</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/album34_196030488</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/albums-348403</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/albums-47200950</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/albums34</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/albums3420</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/albums3420?profile=1</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/albums34?profile=1</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/alinalorents</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/andrew</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/andrewnovoselsky</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/android_app</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/antanubis</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/app3087106</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/app3140623</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/app3355168</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/apps?act=manage</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/apvel</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/ast</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>
+            http://vk.com/away.php?to=http%3A%2F%2Fapps.microsoft.com%2Fwindows%2Fapp%2Fvk%2F55677f7c-3dab-4a57-95b2-4efd44a0e692
+        </loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/away.php?to=http%3A%2F%2Finstagram.com%2Fwwfrussia</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/away.php?to=http%3A%2F%2Fnaked-science.ru%2Farticle%2Fphoto%2Fdalnie-prostory&amp;post=-348403_68847</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/away.php?to=http%3A%2F%2Foauth.net</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/away.php?to=http%3A%2F%2Ftwitter.com%2Flobushkin</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/away.php?to=http%3A%2F%2Fwwf.ru</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/away.php?to=http%3A%2F%2Fwww.kosmo-museum.ru%2Fevents%2Ffestival-nauchnyh-pablikov&amp;post=34_9033</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>
+            http://vk.com/away.php?to=http%3A%2F%2Fwww.liveinternet.ru%2Fstat%2Fhttp%3A%2F%2Fvkontakte.ru%2Findex.html%3Flang%3Den
+        </loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>
+            http://vk.com/away.php?to=http%3A%2F%2Fwww.windowsphone.com%2Fen-us%2Fstore%2Fapp%2Fvk%2Fedd920e2-b671-41b5-a9db-b89caccfa69c
+        </loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/away.php?to=http%3A%2F%2Fwww.wwf.ru%2Fhelp_us%2Fform%2Fsupport_tigerfeed&amp;post=-348403_67811</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/away.php?to=http%3A%2F%2Fwww.wwf.ru%2Fresources%2Fnews%2Farticle%2F13862&amp;post=-348403_68656</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/away.php?to=http%3A%2F%2Fwww.wwf.ru%2Fresources%2Fnews%2Farticle%2F13868&amp;post=-348403_68704</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/away.php?to=http%3A%2F%2Fwww.wwf.ru%2Fresources%2Fnews%2Farticle%2F13870&amp;post=-348403_68773</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/away.php?to=http%3A%2F%2Fwww.wwf.ru%2Fresources%2Fnews%2Farticle%2F13872&amp;post=-348403_69079</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/away.php?to=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fwwfrussia</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/away.php?to=https%3A%2F%2Fitunes.apple.com%2Fen%2Fapp%2Fvk-app%2Fid564177498%3Fmt%3D8</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/away.php?to=https%3A%2F%2Fitunes.apple.com%2Fen%2Fapp%2Fvk-for-ipad%2Fid656485245</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>
+            http://vk.com/away.php?to=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.vkontakte.android
+        </loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/away.php?to=https%3A%2F%2Ftjournal.ru%2Fp%2Fvk-university&amp;post=34_9048</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/away.php?to=https%3A%2F%2Ftwitter.com%2FwwfRu</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/away.php?to=https%3A%2F%2Fwww.facebook.com%2FwwfRU</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>
+            http://vk.com/away.php?to=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FFontana%2BPaolina%2F%4041.8973388%2C12.4978218%2C3a%2C75y%2C159.97h%2C74.46t%2Fdata%3D%213m7%211e1%213m5%211sjiiTmOqVhjpEiex2y8ujCg%212e0%216s%252F%252Fgeo1.ggpht.com%252Fcbk%253Fpanoid%253DjiiTmOqVhjpEiex2y8ujCg%2526output%253Dthumbnail%2526cb_client%253Dmaps_sv.tactile.gps%2526thumb%253D2%2526w%253D203%2526h%253D100%2526yaw%253D53.073795%2526pitch%253D0%217i13312%218i6656%214m5%211m2%212m1%211sVia%2BPaolina%2B%25D0%25B8%2BVia%2BLiberiana%2C%2BRome.%213m1%211s0x0000000000000000%3A0x620aa70c0251182f&amp;post=3420_28854
+        </loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/bee</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/board348403</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/brainstorm_official</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/bugs</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/butorinmn</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/buzzfeed</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/caxap</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/chegerst</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/clubpriutdlyaptic</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/communities</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/crazyinvestor</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/denull</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/Auth</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/Comments</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/Community</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/Flash_SDK</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/Flash_apps</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/IFrame_apps</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/IFrame_widgets</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/Javascript_SDK</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/Like</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/Poll</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/Post</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/Recommended</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/SDK</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/SDK8</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/Share</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/Subscribe</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/ad_apps</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/ads</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/adterms</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/alta</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/android_sdk</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/api_requests</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/apiusage</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/auth_mobile</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/auth_server</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/auth_sites</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/authentication</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/clientapi</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/datatypes</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/ecommerce_terms</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/feedback</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/games</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/health</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/help</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/ios_sdk</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/leads</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/main</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/main123</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/methods</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/mobile_apps</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/mobile_games</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/native</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/native_catalog?f=Request+status</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/native_catalog?f=Requirements</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/native_catalog?f=Sending+a+publication+request</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/native_create</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/native_create?f=Creating+an+Applicaton</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/native_create?f=Payments+and+Ads+Integration</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/native_create?f=Social+Mechanics+Integration</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/native_create?f=VK+API+Integration</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/native_monetization?f=Ads</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/native_monetization?f=Payments+system</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/native_promo?f=Ads</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/native_promo?f=Featuring</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/native_promo?f=Social+mechanics</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/openapi</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/partnership</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/payments</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/rules</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/secure</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/sites</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/standalone</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/terms</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/upload_files</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/versions</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/video_emb</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dev/wp_sdk</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dimaovodov</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dimmeri</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/dmca</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/doc3420_437023008?hash=e63fbae60f274eddc1&amp;dl=39ebb210e6a9fc4f08</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/doc4362539_148150629?hash=71abfc370fbfeebe63&amp;dl=8db6fecff9c31e25e3</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/doc6492_239974933?hash=3b47d3b6fc56e82be8&amp;dl=7c449e342a487a30d7</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/doc6492_239974992?hash=160d3be0f635c3ffd9&amp;dl=55fe3e1c30e903daed</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/edit</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/ekimma_de</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/event14639733</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/event38952158</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/event39949138</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/event41190662</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/evgeniplushenko</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/feed?section=search&amp;q=%23%D0%AF%D0%9D%D0%B5%D0%A8%D0%B0%D1%80%D0%BB%D0%B8</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/feed?section=search&amp;q=%23%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F
+        </loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/feed?section=search&amp;q=%23%D0%B2%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/feed?section=search&amp;q=%23%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B0</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/feed?section=search&amp;q=%23%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/feed?section=search&amp;q=%23%D1%84%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D1%8C%D0%BF%D0%B0%D0%B1%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/feed?section=search&amp;q=%237%D0%9A9268</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/feed?section=search&amp;q=%23Oomph</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/feed?section=search&amp;q=%23WWF</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/feed?section=search&amp;q=%23ZellaDay</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/feed?section=search&amp;q=%23brainstorm</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/feed?section=search&amp;q=%23hackaween</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/feed?section=search&amp;q=%23lovevk</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/feed?section=search&amp;q=%23theprodigy</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/feed?section=search&amp;q=%23vk</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/feed?section=search&amp;q=%23vkcup</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/feed?section=search&amp;q=%23vkcup2015</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/feed?section=search&amp;q=%23vkfest</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/feed?section=search&amp;q=%23vkhackathon</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/feed?section=search&amp;q=%23vkuniversity</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/feed?section=search&amp;q=%23zelenyikot</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/fest</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/fortuna</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/freddurst</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/fuuugu_fish</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/gifts3420</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/gvenkin</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/hackaween</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/hackaween_reg</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/help.php?page=peering</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/help.php?page=terms</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/help?page=cc_terms</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/i_love_ananas</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/id</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/id105</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/id121343</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/id137839781</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/id149238223</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/id1752533</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/id181622968</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/id1950</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/id205</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/id212449968</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/id229132479</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/id240486</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/id268367815</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/id3047</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/id307779104</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/id308922342</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/id308966304</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/id311252693</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/id325466910</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/id3308324</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/id34</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/id3416</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/id404</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/id953</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/igosiy</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/ilja_dubinin</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/illarionov</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/illustrator_misha</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/index.php</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/iphone_app</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/iriha</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/isaymon</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/iv</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/ivanbelonogov</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/izban</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/jobs</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/jobs?w=job23</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/jobs?w=job36</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/jobs?w=job38</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/jobs?w=job39</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/jobs?w=job43</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/jobs?w=job44</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/jobs?w=job45</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/jobs?w=job46</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/jobs?w=job47</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/join</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/konradt</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/kosmo_museum</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/kz</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/licence</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/lifenews_ru</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/limpbizkit</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/liveplus</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/login.php</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/login.php?u=2&amp;to=YXBwcz9hY3Q9bWFuYWdl</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/login.php?u=2&amp;to=YnVncw--</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/login.php?u=2&amp;to=c3VwcG9ydD9hY3Q9aG9tZQ--</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/login.php?u=2&amp;to=c3VwcG9ydD9hY3Q9bmV3</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/login.php?u=2&amp;to=d3JpdGU/ZW1haWw9YWR2QGNvcnAudmsuY29t</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/login.php?u=2&amp;to=d3JpdGU/ZW1haWw9cHJlc3NAdmsuY29t</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/lperovskaya</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/magisterbes</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/margaritashifrina</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/maria_kruchinina</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/market-348403</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/market-348403?w=product-348403_26276</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/market-348403?w=product-348403_46658</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/market-348403?w=product-348403_46660</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/mishkacatering</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/nakedsci</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/napalmdeath1</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/naskvozj</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/niyaz.nigmatullin</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/notes-47200950</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/officialpages</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/ohuenko</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/oldlentach</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/oneapple</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/ostroffsky</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/page-100936019_50963932</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/page-47200950_44237911</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/page-76477496_51653174</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/people</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/people/Georgy_Lobushkin</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/people/Tatyana_Plutalova</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo-22822305_353463002</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo-348403_385658598</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo-47200950_294372232?all=1</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo-47200950_294377208</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo-47200950_294377208?all=1</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo-47200950_294377214</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo-47200950_294377214?all=1</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo-47200950_294377450</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo-47200950_294377450?all=1</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo-47200950_294377469</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo-47200950_294377469?all=1</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo-47200950_294377497</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo-47200950_294377497?all=1</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo-47200950_294377519</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo-47200950_294377519?all=1</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo-47200950_294377535</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo-47200950_294377535?all=1</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo-47200950_294377540</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo-47200950_294377540?all=1</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo-47200950_294377562</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo-47200950_294377562?all=1</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo-47200950_294377647?all=1</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo-47200950_294377664?all=1</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo-47200950_294377677?all=1</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo-47200950_302135074</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo-47200950_302135074?all=1</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo-47200950_314520821</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo-47200950_314520821?all=1</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo-68218830_325561127</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo3420_356774626</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo3420_382654197?all=1</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo3420_383902879?all=1</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo3420_385075863?all=1</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo3420_385931769?all=1</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo3420_386674360</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo3420_386674361</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo3420_386674362</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo3420_386674368</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo3420_386674369</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo3420_386785673</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo3420_387981535</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo3420_387981556</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo34_369174776</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo34_386925369</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo34_387540576</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo34_387540595</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo34_387540607</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo34_387540623</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo34_387540635</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo34_387540660</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo34_387540683</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo34_387540683?all=1</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo34_387754221?all=1</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo34_388068865?all=1</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photo34_389348474?all=1</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/photos-47200950?act=comments</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/pogoloveloktem</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/pokraslampas</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/privacy</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/public47200950</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/que_tourist</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/qwerty787788</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/r.buravlyov</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/rammi</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/reg0</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/restore</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/restore?act=return_page</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/rudkovskaya_yana</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/sanek_potapov</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/schshrrg</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[name]=0&amp;c[section]=people&amp;c[addr_country]=1&amp;c[addr_city]=2</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[name]=0&amp;c[section]=people&amp;c[alcohol]=2</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[name]=0&amp;c[section]=people&amp;c[country]=1&amp;c[city]=2</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[name]=0&amp;c[section]=people&amp;c[hometown]=%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[name]=0&amp;c[section]=people&amp;c[lang]=-1</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[name]=0&amp;c[section]=people&amp;c[lang]=3</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[name]=0&amp;c[section]=people&amp;c[lang]=6</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[name]=0&amp;c[section]=people&amp;c[people_priority]=1</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[name]=0&amp;c[section]=people&amp;c[personal_priority]=6</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[name]=0&amp;c[section]=people&amp;c[position]=%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%20%D0%BF%D1%80%D0%B5%D1%81%D1%81-%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D1%8B</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[name]=0&amp;c[section]=people&amp;c[q]=%D0%92%D0%9A</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[name]=0&amp;c[section]=people&amp;c[q]=%D0%92%D0%A6</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[name]=0&amp;c[section]=people&amp;c[q]=%D0%92%D0%B0%D0%BB%D0%B5%D1%82</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[name]=0&amp;c[section]=people&amp;c[q]=%D0%9C%D0%A0</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[name]=0&amp;c[section]=people&amp;c[q]=%D0%9F%D0%94</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[name]=0&amp;c[section]=people&amp;c[q]=%D0%A2%D0%B0%D0%BB%D0%BC%D1%83%D0%B4</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[name]=0&amp;c[section]=people&amp;c[religion]=�������� ��������</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[name]=0&amp;c[section]=people&amp;c[school_country]=1&amp;c[school_city]=2&amp;c[school]=19032</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[name]=0&amp;c[section]=people&amp;c[school_country]=1&amp;c[school_city]=2&amp;c[school]=19032&amp;c[school_year]=2005</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[name]=0&amp;c[section]=people&amp;c[school_country]=1&amp;c[school_city]=2&amp;c[school]=19032&amp;c[school_year]=2005&amp;c[school_class]=88</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[name]=0&amp;c[section]=people&amp;c[smoking]=2</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[name]=0&amp;c[section]=people&amp;c[uni_country]=1&amp;c[uni_city]=2&amp;c[university]=1</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[name]=0&amp;c[section]=people&amp;c[uni_country]=1&amp;c[uni_city]=2&amp;c[university]=1&amp;c[edu_form]=1</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[name]=0&amp;c[section]=people&amp;c[uni_country]=1&amp;c[uni_city]=2&amp;c[university]=1&amp;c[edu_form]=2</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[name]=0&amp;c[section]=people&amp;c[uni_country]=1&amp;c[uni_city]=2&amp;c[university]=1&amp;c[edu_status]=2</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[name]=0&amp;c[section]=people&amp;c[uni_country]=1&amp;c[uni_city]=2&amp;c[university]=1&amp;c[edu_status]=5</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[name]=0&amp;c[section]=people&amp;c[uni_country]=1&amp;c[uni_city]=2&amp;c[university]=1&amp;c[faculty]=15</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[name]=0&amp;c[section]=people&amp;c[uni_country]=1&amp;c[uni_city]=2&amp;c[university]=1&amp;c[faculty]=18</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[name]=0&amp;c[section]=people&amp;c[uni_country]=1&amp;c[uni_city]=2&amp;c[university]=1&amp;c[faculty]=18&amp;c[chair]=256</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[name]=0&amp;c[section]=people&amp;c[uni_country]=1&amp;c[uni_city]=2&amp;c[university]=1&amp;c[uni_year]=2009</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[name]=0&amp;c[section]=people&amp;c[uni_country]=1&amp;c[uni_city]=2&amp;c[university]=1&amp;c[uni_year]=2011</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[section]=audio&amp;c[q]=Zella%20Day&amp;c[performer]=1</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[section]=people&amp;c[bday]=4&amp;c[bmonth]=2</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[section]=people&amp;c[byear]=1988</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[section]=people&amp;c[group]=22822305</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[section]=people&amp;c[group]=348403</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/search?c[section]=people&amp;c[group]=68218830</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/settings?act=payments</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/sh</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/sidorkov</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/siunov</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/sk_pmi</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/spb_today</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/spbifmo</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/ssvetlana</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stacie</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/staisymoon</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/angelmarie</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/artem</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/bernard</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/boo</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/borodist</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/cooper</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/diego</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/faces</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/flynn</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/food</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/foxy</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/fruitables</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/geniuses</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/joe</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/lamur</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/larry</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/leo</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/leva</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/leya</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/louandtheodor</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/louie</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/lovematters</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/lovers</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/marie</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/maslenitsa</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/metalis</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/mikhail</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/mysterymanor</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/nichosi</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/officemess</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/olya</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/oscar</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/otto</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/overhear</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/persik</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/phil</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/pillow</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/pinguingeorge</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/pinocactus</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/ralph</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/renshuu</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/richie</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/robert</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/rojkoff</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/seasons</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/senya</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/shunya</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/smilies</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/sonya</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/spartak</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/spotty</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/teemo</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/thunder</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/toby</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/tolya</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/tweety</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/vacation</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/winky</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/words</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/wot</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/wwf</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/stickers/zenit</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/strots</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/subscriblr</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/support?act=home</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/support?act=new</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/support?act=new_ads</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/team</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/team/WWF</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/team/vk9</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/terms</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/thevillage</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/tigers_best</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/tj</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/tony_montana_rus</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/topic-348403_19306441</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/topic-348403_19306441?offset=last&amp;scroll=1</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/topic-348403_27195116</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/topic-348403_27195116?offset=last&amp;scroll=1</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/topic-348403_334013</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/topic-348403_334013?offset=last&amp;scroll=1</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/ulyana_zotova</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/valerie_petrova</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/vera.babenko</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/video-18794783_171734095?list=02482e9db1da71da98</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/video-22822305_171534451?list=f63ef3821d4360ef0a</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/video-69350029_171242841</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/video-69350029_171242841?list=709e0d4f1e850c972e</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/video273251945_172217302?list=5762290296f889217e</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/video34_171320484?list=3538b381149e7bd0d5</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/video34_171323793?list=8d6a4341019d0751b3</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/video961430_171395564?list=05d07f539854e467a0</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/vinokurkina</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/vkcup</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/vkhead</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/vkstickers</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/vkstickers/new</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/vku</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/vladgatilov</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/vladislava_rau</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/vovapressa</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/vs</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/vuaty2006</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/wall-100936019_28</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/wall-103600381_5</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/wall-103600381_96</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/wall-22822305_123941</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="true">
+        <loc>http://vk.com/wall-22822305_124549</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url available="available">
+        <loc>http://vk.com/wall-22822305_125918</loc>
+        <lastmod>2015-11-21T21:13:59+03:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+</urlset>

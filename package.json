@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "iconv": "latest",
+    "node-expat": "latest",
+    "readable-stream": "latest",
+    "mysql": "latest",
+    "valid-url": "latest"
+  }
+}
